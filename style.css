@@ -1,5 +1,5 @@
 body {
-  background-color: #F7F9FC;
+  background-color: #708090;
   color: #575F7D;
   font-family:'Lora', serif;
   font-size: 20px;
@@ -10,6 +10,8 @@ body {
   box-shadow: 0px 10px 10px #212121;
   border-radius: 10px;
   text-align: center;
+  margin-bottom: 15px;
+  background-color: #EEE8AA;
 }
 
 .list-inline {
@@ -30,7 +32,6 @@ body {
 .container {
   width: 600px;
   margin: 0 auto;
-  background-color: #EEE8AA;
 }
 
 .btn {
@@ -39,12 +40,13 @@ body {
 }
 
 p {
-  margin-bottom: 50px;
+  margin-bottom: 5px;
+  margin-top: 10px;
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
 
@@ -61,5 +63,7 @@ h1 {
 h2 {
   color: #D2691E;
   font-size: 20px;
-  line-height:1.5;
+  line-height: 1.5;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
